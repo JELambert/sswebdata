@@ -13,7 +13,7 @@ Navigate to sswebdata/
 python setup.py install
 
 
-Current functions:
+## Current functions:
 
   Ucdp.get_ucdp(ucdp)
 
@@ -41,6 +41,11 @@ Current functions:
             notes :
                 I added a democracy and autocracy variable (foreign occupied and warlordism are in the autocratic cateogry)
 
+## Example
+
+from sswebdata import Ucdp
+
+nonstate_dataset = Ucdp.get_ucdp("nonstate")
 
 ## Citations
 
