@@ -30,8 +30,8 @@ python setup.py install
 
 
   Reign.reign(frame)
+  
       args :
-
             frame =
 
             "monthly" - de-duplicated based on coups
