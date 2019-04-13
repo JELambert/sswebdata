@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 13 13:59:52 2019
 
-@author: Jesus
+@author: Joshua E. Lambert
 """
 
 from setuptools import setup, find_packages
