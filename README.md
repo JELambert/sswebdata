@@ -3,7 +3,7 @@
 Some of the data I am using when working on research projects and the
 dissertation is updated frequently.  Rather than having to download files to keep up,
 I wanted to have access to the current data through a python library. I will be
-expanding this package to include more data as time permits.
+expanding this package to include more data as time permits. For a full more thorough discussion and some usage of the package check out this blog post ["Security Studies Web Data"](http://jelambert.com/sswebdata/).
 
 ## Installation:
 Clone into a directory
@@ -30,7 +30,7 @@ python setup.py install
 
 
   Reign.reign(frame)
-  
+
       args :
             frame =
 
