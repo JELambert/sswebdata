@@ -6,11 +6,11 @@ I wanted to have access to the current data through a python library. I will be
 expanding this package to include more data as time permits. For a full more thorough discussion and some usage of the package check out this blog post ["Security Studies Web Data"](http://jelambert.com/sswebdata/).
 
 ## Installation:
-Clone into a directory
+* Clone into a directory
 
-Navigate to sswebdata/
+* Navigate to sswebdata/
 
-python setup.py install
+* python setup.py install
 
 
 ## Current functions:
