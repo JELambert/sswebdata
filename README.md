@@ -31,21 +31,21 @@ python setup.py install
 
   Reign.reign(frame)
 
-      args :
-            frame =
+       args:
+           frame =
 
-            "monthly" - de-duplicated based on coups
-            "yearly" - de-duplicated based on coups
-            "full" - non de-duplicated
+           "monthly" - de-duplicated based on coups
+           "yearly" - de-duplicated based on coups
+           "full" - non de-duplicated
 
-            notes :
-                I added a democracy and autocracy variable (foreign occupied and warlordism are in the autocratic cateogry)
+           notes :
+               I added a democracy and autocracy variable (foreign occupied and warlordism are in the autocratic category)
 
 ## Example
 
-from sswebdata import Ucdp
+    from sswebdata import Ucdp
 
-nonstate_dataset = Ucdp.get_ucdp("nonstate")
+    nonstate_dataset = Ucdp.get_ucdp("nonstate")
 
 ## Citations
 
